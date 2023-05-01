@@ -1,17 +1,20 @@
 
 # Tetris Game on LED matrix
 
-### Blackground
+### Background
 
 ------
 
-This game was a project for an embedded systems class I took in my second year of university. It was one of the most successful pair projects I had at university. We made a simple tetris game which could be played on a small microcontroller. Notably my partner and I got the highest mark in the class for this project. 
+This game was a project for an embedded systems class I took in my second year of university. 
+It was one of the most successful pair projects I had at university. 
+We made a simple tetris game which could be played on a small microcontroller. 
+Notably my partner and I got the highest mark in the class for this project. 
 
 ### Key Learnings
 
  - My first project written in C,
  - My first experience writing a program for an embedded system,
- - Experience with handling IO operations.
+ - Experience with handling different IO operations.
 
 -------
 
